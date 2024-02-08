@@ -10,17 +10,22 @@
   <div id="container">
     <h1>Weather Dashboard</h1>
     
-    <!-- Search for a city -->
+    
     <div id="searchContainer">
       <label for="cityInput">Search for a city:</label>
       <input type="text" id="cityInput" placeholder="Enter city name">
       <button id="searchButton">Search</button>
     </div>
+     
+    <div id="historyDropdown">
+     <button id="historyButton">View Search History</button>
+     <div id="historyList" class="history-list"></div>
+    </div>
     
-    <!-- Display current weather -->
+    
     <div id="resultContainer"></div>
     
-    <!-- Display future weather forecast -->
+    
     <div id="forecastContainer"></div>
   </div>
 
