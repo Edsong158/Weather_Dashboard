@@ -25,10 +25,3 @@ The Weather Dashboard is a web application that allows users to search for weath
 ## Local Storage
 - The application uses local storage to store the search history, allowing users to access previously searched cities even after refreshing the page.
 
-## Demo
-[Link to live demo](#) // Add the link to your live demo here
-
-
-
-## License
-This project is licensed under the [MIT License](LICENSE).
